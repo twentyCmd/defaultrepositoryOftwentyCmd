@@ -4,4 +4,4 @@ x=1
 while i<nums :
     i =i+1
     x=i*x
-print (x)
+print ("{}!={}".format(nums,x))

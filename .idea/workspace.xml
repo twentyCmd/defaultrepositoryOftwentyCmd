@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea67ef0b-3a0e-4120-8294-ce171865fa59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/learnig_to_use_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/learnig_to_use_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/silnia.py" beforeDir="false" afterPath="$PROJECT_DIR$/silnia.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/silnia.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -35,7 +34,16 @@
         <entry file="file://$PROJECT_DIR$/learnig_to_use_dates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -56,8 +64,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/learnig_to_use_dates.py" />
         <option value="$PROJECT_DIR$/silnia.py" />
+        <option value="$PROJECT_DIR$/learnig_to_use_dates.py" />
+        <option value="$PROJECT_DIR$/clock.py" />
       </list>
     </option>
   </component>
@@ -90,7 +99,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learnig_to_use_dates.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clock.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -105,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.silnia">
+  <component name="RunManager" selected="Python.clock">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="testy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +136,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learnig_to_use_dates" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="testy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files (x86)\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="testy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnig_to_use_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +221,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.learnig_to_use_dates" />
+      <item itemvalue="Python.clock" />
       <item itemvalue="Python.run" />
       <item itemvalue="Python.silnia" />
     </list>
@@ -220,6 +250,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12802951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -248,17 +279,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnig_to_use_dates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/silnia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnig_to_use_dates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
